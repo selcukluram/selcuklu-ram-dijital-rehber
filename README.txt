@@ -1,3 +1,1 @@
-Selçuklu RAM Dijital Uygulama Rehberi - Deneme PWA
-GitHub deposunun kök dizinine ZIP içindeki dosyaların tamamını yükleyin. Settings > Pages > Deploy from a branch > main > /(root).
-Kaynak rehberin özgün kurumsal bilgileri ve kaynak atfı korunmuştur.
+Selçuklu RAM Dijital Rehber - Özel Eğitim Kaynakları sürümü. ZIP içindeki tüm dosyaları GitHub deposunun ana dizinine yükleyin. Kaynak başlıkları resmî site haritasından doğrulanmıştır; doğrudan belge URLleri henüz doğrulanamadığından kaynaklar site haritasına yönlendirir. Çevrimdışı: özgün 86 sayfalık rehber. Yeni kaynaklar: internet bağlantısı gerektirir.
